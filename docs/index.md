@@ -4,4 +4,4 @@
 
 ## 記事一覧
 
-- [理論神経科学に個人的に期待すること](theoretical-neuroscience-expectations)
+- [理論神経科学に個人的に期待すること](theoretical-neuro-expectations.md)
